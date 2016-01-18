@@ -55,6 +55,14 @@ public class ArrayAndString {
 		return true;
 	}
 	
+	/** 
+	 * 문자열 뒤집기
+	 * */
+	public static String reverse(String str){
+		String reverseString; 
+		return null;
+	}
+	
 	
 	
 }
